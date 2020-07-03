@@ -1,0 +1,10 @@
+{
+  "short_name": "Multi-step",
+  "name": "Multi-step-form",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
